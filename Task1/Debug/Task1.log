@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task1\task1\source.cpp(94): warning C4101: Result: неиспользованная локальная переменная
+  Task1.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task1\Debug\Task1.exe
+  Task1.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\Task1\Debug\Task1.pdb (Partial PDB)
